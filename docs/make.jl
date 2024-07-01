@@ -10,6 +10,6 @@ makedocs(
 )
 
 deploydocs(
-    repo = "https://github.com/ocots/VisuTest.git",
+    repo = "github.com/ocots/VisuTest.git",
     devbranch = "main"
 )
