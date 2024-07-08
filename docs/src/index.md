@@ -2,6 +2,12 @@
 
 hello world
 
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
+
 <canvas id="unity-canvas" width=960 height=600 tabindex="-1" style="width: 960px; height: 600px; background: #231F20"></canvas>
 
 <script src="unity/Build/unity.loader.js"></script>
