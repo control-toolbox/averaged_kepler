@@ -1,3 +1,3 @@
-# VisuTest
+# Averaged Kepler problem
 
-Visit https://ocots.github.io/VisuTest.
+Visit https://ocots.github.io/averaged_kepler.
