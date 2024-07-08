@@ -1,3 +1,3 @@
 # Averaged Kepler problem
 
-Visit https://ocots.github.io/averaged_kepler.
+Visit https://control-toolbox.github.io/averaged_kepler.

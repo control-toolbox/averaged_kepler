@@ -10,6 +10,6 @@ makedocs(
 )
 
 deploydocs(
-    repo = "github.com/ocots/averaged_kepler.git",
+    repo = "github.com/control-toolbox/averaged_kepler.git",
     devbranch = "main"
 )
