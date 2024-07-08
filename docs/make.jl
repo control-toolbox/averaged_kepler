@@ -1,4 +1,3 @@
-#using AveragedKepler
 using Documenter
 
 makedocs(
