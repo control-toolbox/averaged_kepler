@@ -1,4 +1,4 @@
-using VisuTest
+#using VisuTest
 using Documenter
 
 makedocs(
