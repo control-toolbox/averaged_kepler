@@ -1,6 +1,7 @@
 # Visualisation
 
 hello world
+
 <canvas id="unity-canvas" width=960 height=600 tabindex="-1" style="width: 960px; height: 600px; background: #231F20"></canvas>
     <script src="unity/Build/unity.loader.js"></script>
     <script>
@@ -10,15 +11,12 @@ hello world
         meta.name = 'viewport';
         meta.content = 'width=device-width, height=device-height, initial-scale=1.0, user-scalable=no, shrink-to-fit=yes';
         document.getElementsByTagName('head')[0].appendChild(meta);
-
         var canvas = document.querySelector("#unity-canvas");
         canvas.style.width = "100%";
         canvas.style.height = "100%";
         canvas.style.position = "fixed";
-
         document.body.style.textAlign = "left";
       }
-
       createUnityInstance(document.querySelector("#unity-canvas"), {
         dataUrl: "unity/Build/unity.data",
         frameworkUrl: "unity/Build/unity.framework.js",
