@@ -1,4 +1,4 @@
-# Visualisation
+# Averaged Kepler problem
 
 hello world
 

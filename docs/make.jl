@@ -1,8 +1,8 @@
-#using VisuTest
+#using AveragedKepler
 using Documenter
 
 makedocs(
-    sitename = "Visualisation",
+    sitename = "AveragedKepler",
     format = Documenter.HTML(prettyurls = false),
     pages = [
         "Home" => "index.md",
@@ -10,6 +10,6 @@ makedocs(
 )
 
 deploydocs(
-    repo = "github.com/ocots/VisuTest.git",
+    repo = "github.com/ocots/averaged_kepler.git",
     devbranch = "main"
 )
