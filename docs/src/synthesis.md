@@ -1,7 +1,7 @@
 ```@raw html
-<canvas id="unity-canvas" width=960 height=600 tabindex="-1" style="width: 960px; height: 600px; background: #231F20"></canvas>
+<canvas id="unity-canvas" width=816 height=510 tabindex="-1" style="width: 816px; height: 510px; background: #231F20"></canvas>
 
-<script src="unity/Synthesis/unity.loader.js"></script>
+<script src="unity/Synthesis/Synthesis.loader.js"></script>
 <script>
     if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
     // Mobile device style: fill the whole browser client area with the game canvas:
@@ -16,9 +16,9 @@
     document.body.style.textAlign = "left";
     }
     createUnityInstance(document.querySelector("#unity-canvas"), {
-    dataUrl: "unity/Synthesis/unity.data",
-    frameworkUrl: "unity/Synthesis/unity.framework.js",
-    codeUrl: "unity/Synthesis/unity.wasm",
+    dataUrl: "unity/Synthesis/Synthesis.data",
+    frameworkUrl: "unity/Synthesis/Synthesis.framework.js",
+    codeUrl: "unity/Synthesis/Synthesis.wasm",
     streamingAssetsUrl: "StreamingAssets",
     companyName: "DefaultCompany",
     productName: "ControlN7Visuals",

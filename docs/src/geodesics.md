@@ -1,5 +1,5 @@
 ```@raw html
-<canvas id="unity-canvas" width=960 height=600 tabindex="-1" style="width: 960px; height: 600px; background: #231F20"></canvas>
+<canvas id="unity-canvas" width=816 height=510 tabindex="-1" style="width: 816px; height: 510px; background: #231F20"></canvas>
 
 <script src="unity/Geodesics/Geodesics.loader.js"></script>
 <script>

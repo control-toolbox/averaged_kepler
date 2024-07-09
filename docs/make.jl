@@ -5,7 +5,11 @@ makedocs(
     format = Documenter.HTML(prettyurls = false),
     pages = [
         "Home" => "index.md",
-        "Geodesics" => "geodesics.md",
+        "3D Visualization" => [
+                               "synthesis.md",
+                               "spheres.md",
+                               "geodesics.md",
+                              ],
     ]
 )
 
