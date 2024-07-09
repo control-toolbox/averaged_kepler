@@ -4,11 +4,11 @@ makedocs(
     sitename = "AveragedKepler",
     format = Documenter.HTML(prettyurls = false),
     pages = [
-        "Home" => "index.md",
+        "Problem definition" => "index.md",
         "3D Visualization" => [
-                               "synthesis.md",
-                               "spheres.md",
-                               "geodesics.md",
+                               "Optimal Synthesis" => "synthesis.md",
+                               "Spheres" => "spheres.md",
+                               "Geodesics" => "geodesics.md",
                               ],
     ]
 )
