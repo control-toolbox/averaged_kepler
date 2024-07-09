@@ -1,6 +1,6 @@
 # The averaged Kepler problem
 
-@doc raw"""
+```
 We consider the Hamiltonian
 
 $$
@@ -27,4 +27,4 @@ In that case, the hyperbolic geodeics are given by
 $$
     p_\theta\, v + 1 = v\, m_\lambda(r) \cos \alpha_0 + 1 > 0.  
 $$
-"""
+```
