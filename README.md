@@ -1,6 +1,6 @@
 # Averaged Kepler problem
 
-We may find here some resources about the averaged kepler problem with current. This problem is part of time minimal optimal control problems and more particularly, it may be seen as a Zermelo navigation problem.
+We may find here some resources about the averaged kepler problem with current. This problem is part of time minimal optimal control problems and more particularly, it may be seen as a Zermelo navigation problem on the sphere.
 
 Please visit the [online documentation](https://control-toolbox.github.io/averaged_kepler) to explore the optimal synthesis. All the codes to make the visualizations may be found [here](https://github.com/control-toolbox/Zermelo/tree/main/kepler). We refer to this [article](https://hal.science/hal-04433828)[^1] for more details about Zermelo navigation on the sphere with revolution metrics.
 
