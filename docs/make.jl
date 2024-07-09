@@ -5,6 +5,9 @@ makedocs(
     format = Documenter.HTML(prettyurls = false),
     pages = [
         "Home" => "index.md",
+        "Geodesics" => "geodesics.md",
+        "Sphere" => "sphere.md",
+        "Synthetis" => "synthetis.md",
     ]
 )
 
