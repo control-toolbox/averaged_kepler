@@ -2,16 +2,16 @@
 
 We consider the Hamiltonian
 
-$$
+$
     H(r, \theta, p_r, p_\theta) = v p_\theta + \Vert p \Vert_{g}
-$$
+$
 
 where $v$ is a constant, $p = (p_r, p_\theta)$, and $\Vert \cdot \Vert_{g}$ is the norm induced by the metric
 
-$$
+$
     g = \mathrm{d}r^2 + m_\lambda^2(r)\, \mathrm{d}\theta^2, \quad 
     m_\lambda^2(r) = \frac{\sin^2 r}{1 - \lambda \sin^2 r}
-$$
+$
 
 with $\lambda = 4/5$.
 
