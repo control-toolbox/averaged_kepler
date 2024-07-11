@@ -1,5 +1,5 @@
 ```@raw html
-<canvas id="unity-canvas" width=42.5% tabindex="-1" style="width: 42.5%; background: #231F20"></canvas>
+<canvas id="unity-canvas" width=816 height=510 tabindex="-1" style="width: 816px; height: 510px; background: #231F20"></canvas>
 
 <script src="unity/Geodesics/Geodesics.loader.js"></script>
 <script>
@@ -10,8 +10,8 @@
     meta.content = 'width=device-width, height=device-height, initial-scale=1.0, user-scalable=no, shrink-to-fit=yes';
     document.getElementsByTagName('head')[0].appendChild(meta);
     var canvas = document.querySelector("#unity-canvas");
-    canvas.style.width = "80%";
-    canvas.style.height = "80%";
+    canvas.style.width = "90%";
+    canvas.style.height = "90%";
     canvas.style.position = "fixed";
     document.body.style.textAlign = "left";
     }
