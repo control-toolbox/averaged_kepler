@@ -11,7 +11,7 @@
     document.getElementsByTagName('head')[0].appendChild(meta);
     var canvas = document.querySelector("#unity-canvas");
     canvas.style.width = "95%";
-    canvas.style.height = "95%";
+    canvas.style.height = "80%";
     canvas.style.position = "fixed";
     document.body.style.textAlign = "left";
     }
