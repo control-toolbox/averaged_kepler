@@ -10,8 +10,8 @@
     meta.content = 'width=device-width, height=device-height, initial-scale=1.0, user-scalable=no, shrink-to-fit=yes';
     document.getElementsByTagName('head')[0].appendChild(meta);
     var canvas = document.querySelector("#unity-canvas");
-    canvas.style.width = "90%";
-    canvas.style.height = "90%";
+    canvas.style.width = "95%";
+    canvas.style.height = "95%";
     canvas.style.position = "fixed";
     document.body.style.textAlign = "left";
     }
